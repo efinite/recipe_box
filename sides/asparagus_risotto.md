@@ -1,6 +1,6 @@
 # Asparagus Risotto
 
-#### Author(s): Jenny G.
+#### Author(s): JG
 
 ## Yield
 

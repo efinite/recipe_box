@@ -1,6 +1,6 @@
 # Stuffed Lobster
 
-#### Author(s): Eric F.
+#### Author(s): EF
 
 #### Ref(s):
 

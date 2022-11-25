@@ -1,6 +1,6 @@
 # Roasted Garlic Mozzarella Mashed Potatoes
 
-#### Author(s): Jenny G.
+#### Author(s): JG
 
 ## Yield
 
