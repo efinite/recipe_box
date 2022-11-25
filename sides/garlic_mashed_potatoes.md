@@ -8,7 +8,7 @@
 
 ## Ingredients
 
--   Yukon gold potatoes, peeled/halved, 3 lb
+-   Yukon gold potatoes, peeled/halved, 3 lbs
 -   Half & half, 0.5-0.75 cup
 -   Mozzarella, grated, 1 cup
 -   Garlic, roasted, 1 head
