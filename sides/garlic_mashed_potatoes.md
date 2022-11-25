@@ -19,7 +19,7 @@
 
 ## Cooking
 
--   Pre-heat oven to 425F. Slice off the tops of the head of garlic, rub with olive oil and salt, then wrap in aluminum foil. Bake for roughly 30 minutes or until garlic is soft. Remove from heat, set aside.
+-   Pre-heat oven to 425F. Slice off the tops of the head of garlic with a knife, rub with olive oil and salt, then wrap in aluminum foil. Bake on a baking sheet to catch drips for roughly 30 minutes or until garlic is soft. Remove from heat, set aside.
 -   Peel potatoes then halve them. Boil potatoes for 25 minutes.
 -   In a large bowl, combine potatoes with half & half until a desired smooth consistency is reached.
 -   Squeeze garlic out of the skins into the bowl. Then add garlic powder, the egg, and mozzarella. Mix rapidly until homogeneous.
