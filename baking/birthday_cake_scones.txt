@@ -1,0 +1,29 @@
+====== Birthday Cake Scones ======
+Ref(s): https://www.bakefromscratch.com/birthday-cake-scones-vanilla-glaze/
+
+===== Yield =====
+8 large scones
+
+===== Ingredients =====
+  * 3 cups (375g) flour
+  * 1/4 cup (50g) + 1 tsp (4g) granulated sugar, divided
+  * 2 1/2 tsp (12.5g) baking powder
+  * 1 tsp (3g) kosher salt
+  * 1 cup (227g) cold unsalted butter, cubed (smaller the better)
+  * 1 cup (240g) + 1 Tbsp (15g) whole milk, divided
+  * 1 Tbsp (13g) vanilla extract
+  * 1 tsp (4g) almond extract
+  * Colored sprinkles (ideally funfetti)
+  * [[recipes:vanilla_glaze|Vanilla glaze]]
+
+===== Preparation =====
+  - In large bowl, combine flour, 1/4 cup sugar, baking powder, and salt. Using 2 forks, fold in chunks of butter until mixture crumbly. Next, add 1 cup milk and extracts, stirring until a shaggy dough forms. Finally, stir in sprinkles.
+  - Turn dough onto a heavily floured surface and knead (1 min). Pat into a 1-inch thick circle. Cut into wedges. Transfer to a rimmed baking sheet with parchment paper. 
+  - Brush with remaining milk and sprinkle with remaining sugar.
+
+===== Baking =====
+  - Preheat oven to 375°F.
+  - Bake until lightly golden (30 min). Allow to cool on pan (10 min)
+
+===== Serving =====
+  - Drizzle with a vanilla_glaze once cool.
